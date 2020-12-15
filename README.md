@@ -4,6 +4,3 @@ Eu adorei realizar este projeto e espero que gostem. Estou aberta a críticas co
 
 Aqui está o link do projeto realizado, caso você queira visitar:
 https://nihcolomb.github.io/pagina-inicial-instagram/
-
-Minha professora foi a: Gabriela Pinheiro
-Front-End Developer, B8One
